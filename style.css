@@ -97,11 +97,14 @@ body {
   }
   
   .popup-content {
-    background-color: #ac9a9a;
-    padding: 200px; /* Popup içeriğinin padding değerini artırdık */
-    border-radius: 5px;
-    text-align: center;
-    margin: 100px;
+    background-color: #ffffff;
+    padding: 100px; /* Dikdörtgenin içerisindeki yazılar daha geniş bir alana yayılacak */
+    
+    border-radius: 50px;
+    text-align: left;
+    margin: 10px;
+    font-size: 16px;
+    line-height: 1.5;
   }
   
   .close-btn {
